@@ -29,7 +29,7 @@ print ('start refresh all')
 # Refesh All
 Workbook.RefreshAll()
 #Application.DoEvents()
-time.sleep(120)
+time.sleep(30)
 
 print ('end refresh all')
 
